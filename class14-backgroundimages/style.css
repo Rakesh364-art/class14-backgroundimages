@@ -1,0 +1,40 @@
+div{
+    width: 500px;
+    height: 800px;
+    display: inline-block;
+    border: 10px solid yellowgreen;
+    overflow: auto;
+    margin: 30px;
+   
+    background-color: purple;
+    
+
+}
+ img{
+    width: 500px;
+    object-fit: contain;
+    text-align: center;
+}
+.playernames{
+    text-align: center;
+}
+.viratdiv{
+    background-image: url(./images/rcb\ logo.jpg);
+    background-position:center bottom ;
+    background-size: contain;
+    background-repeat: no-repeat;
+     
+    
+}
+.rohithdiv{
+    background-image: url(./images/mi\ logo.png );
+    background-repeat: no-repeat;
+    background-position:center bottom ;
+    background-size:  400px;
+    border-color: blue;
+    background-attachment: fixed;
+    
+    
+    
+    
+}
